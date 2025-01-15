@@ -4,7 +4,7 @@ Our task is to fill Large Rectangle with given smaller ones, I encountered this 
 
 During my studies, I learned about Genetic Algorithms (GA), which are perfectly suited for this type of problem.<br>
 Please note that this algorithm finds very good, but rarely the most optimal solutions.
-### For more information, see placement_packages.ipynb
+### For more information, see placing_packages.ipynb
 ## Here are some visualizations of found solutions:
 
 ![2522 2565](https://github.com/user-attachments/assets/302d86c0-8471-4f7e-bee8-a83b5bfdddea)
